@@ -13,7 +13,7 @@ function bestFruit() {
 
 bestFruit()
 
-function countries(){
+function countries() {
     country = 'colombia'; // declaramos como global (sin var)
     console.log(country)
 }
